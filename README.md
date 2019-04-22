@@ -1,3 +1,6 @@
+### Details
+NodeJS webapi and ReactNative mobile app to scrap, visualize and find jobs for the most populars websites in DO.
+
 ### Websites
 
 Scrap jobs info from some of DO websites
@@ -18,7 +21,7 @@ Scrap jobs info from some of DO websites
 ### Todos
 
  - Scrap other websites
- - Develop a Xamarin App to (display, search, job alerts, local db, etc)
+ - Develop a ReactNative App to (display, search, receive notifications alerts, cache data in a local db, etc)
 
 License
 ----
